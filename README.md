@@ -1,5 +1,11 @@
-## VINKYL HUB
+    __      ___       _          _      _    _       _     
+## \ \    / (_)     | |        | |    | |  | |     | |    
+##\ \  / / _ _ __ | | ___   _| |    | |__| |_   _| |__  
+## \ \/ / | | '_ \| |/ / | | | |    |  __  | | | | '_ \ 
+##  \  /  | | | | |   <| |_| | |    | |  | | |_| | |_) |
+##   \/   |_|_| |_|_|\_\\__, |_|    |_|  |_|\__,_|_.__/                         
+##                      |___/                           
 
-Hey, I made this Roblox exploiting hub! Yeah.. :)
 
-You can just use it, if you want!
+
+Hey, I made this Hub for fun! Enjoy it though.
